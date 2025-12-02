@@ -1,0 +1,9 @@
+# Compiled binary
+test_runner
+
+# Object files
+*.o
+*.obj
+
+# macOS
+.DS_Store
