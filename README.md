@@ -1,3 +1,5 @@
+[![Tests](https://github.com/kabisa/codam-tdd-workshop/actions/workflows/test.yml/badge.svg)](https://github.com/kabisa/codam-tdd-workshop/actions/workflows/test.yml)
+
 # TDD Workshop in C/Unity
 
 A simple C project setup for practicing Test-Driven Development using the [Unity](https://github.com/ThrowTheSwitch/Unity) testing framework.
