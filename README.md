@@ -48,3 +48,6 @@ TEST_ASSERT_FALSE(condition)
 TEST_ASSERT_NULL(pointer)
 TEST_ASSERT_NOT_NULL(pointer)
 ```
+
+See the [Unity Assertions Reference](https://github.com/ThrowTheSwitch/Unity/blob/master/docs/UnityAssertionsReference.md) for all available assertions.
+
