@@ -1,6 +1,6 @@
-# TDD Workshop
+# TDD Workshop in C/Unity
 
-A simple C project setup for practicing Test-Driven Development using [Unity](https://github.com/ThrowTheSwitch/Unity) testing framework.
+A simple C project setup for practicing Test-Driven Development using the [Unity](https://github.com/ThrowTheSwitch/Unity) testing framework.
 
 ## Structure
 
